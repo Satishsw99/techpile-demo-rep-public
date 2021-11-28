@@ -6,3 +6,4 @@
 window.alert('This is a Alert Box');
 ```
 ![satish](https://user-images.githubusercontent.com/94636744/143727760-648fa75f-bcbb-4476-9ead-d35bb173aaf0.png)
+![App Screenshot](https://i.imgur.com/T9Uh8I0.png)
